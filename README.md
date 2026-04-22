@@ -2,7 +2,7 @@
 
 💻 Full-Stack Developer & Cybersecurity Student  
 🚀 Building scalable and secure web applications  
-🤖 AI-assisted development (ChatGPT, Claude)
+🤖 AI-assisted development
 
 ---
 
